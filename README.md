@@ -51,8 +51,18 @@ Clase 11
 Falté a clase.
 Clase 12
 
+Esta clase ha tratado sobre el tacto:
 Tacto:
 Termocepción:
 Nocicepción: Dolor
 Propiocepción: Te dice donde están las cosas
+
+Somos energía somos electrones y neutrones, y tenemos energía entonces muchos sensores funcionan porque notan la transferencia de energía de nuestro cuerpo al sensor como por ejemplo un pulso eléctrico.
+
+¿Qué hace MQTT?
+Envía mensajes en una dirección, es seguro pero no es infalible.
+Leemos un código QR con el móvil y ahí entramos a una sala que tiene un código, ponemos nuestro nombre y ahí accedemos a la pantalla que tocamos y envía aquellos datos al ordenador.
+
+Es importante no usar la misma contraseña para todo.
+
 
