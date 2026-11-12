@@ -35,12 +35,18 @@ La reflexión filosófica es de Nicolás Maquiavelo y básicamente trata sobre c
 Clase 05
 
 Clase 06
+La herramienta Slit Scan te permite "ver como sería la 4ta dimensión".
 
 Clase 07
 
 Hubo paro pero vino Benjamín a mostrarnos como funciona Sketch Tools.
 Clase 08
+Con la herramienta Sketch Tools, tenemos que desarrollar una plataforma con un vídeo, una canción chilena y un efecto audiovisual que reaccione al sonido.
+En resumen esto es lo que hace la herramienta Sketch Tools.
 
+Mi idea es usar la canción el duelo de el grupo La Ley de un vídeo de un amigo deslizándose por una montaña hacía abajo. Y la herramienta hasta ahora he desarrollado como unas especies de ramas que escuchando los platos de la batería de la canción dependiendo si suenan más o menos fuertes, se acercan hasta tocarse.
+
+Esta plataforma será grabada un vídeo de 60 segundos que se subirá a instagram y el que tenga más likes ganará el concurso con el premio de un año gratis de Sketch Tools premium.
 Clase 09
 
 Paro.
